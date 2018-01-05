@@ -22,7 +22,7 @@ import com.dearbinge.utils.JsonUtil;
  * Hello world!
  *
  */
-public class App {
+public class ClientApp {
 	public static void main(String[] args) throws IOException {
 
 		CloseableHttpClient httpclient = HttpClients.createDefault();

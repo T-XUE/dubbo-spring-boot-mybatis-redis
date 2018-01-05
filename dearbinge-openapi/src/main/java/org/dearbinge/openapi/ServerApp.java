@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 
 import com.dearbinge.openapi.ParkingSpotDataTrans;
 
-public class App {
+public class ServerApp {
 	public static void main(String[] args) {
 		SpringApplication.run(ParkingSpotDataTrans.class, args);
 	}
